@@ -1,0 +1,9 @@
+name: Anthony Nguyen
+bio: |
+  Senior Developer at Shopify, maintainer of SyntaxDB. Writes Rails and React code. Also like to play instruments and cook.
+avatar: ./avatars/anthony-nguyen.jpg
+social:
+  - url: https://anthonynguyen.io
+  - url: https://github.com/anthonyn60
+  - url: https://www.linkedin.com/in/anthonynguyen94/
+featured: true
